@@ -1,0 +1,6 @@
+version=1
+id=
+description=Translates Project Zomboid to Norwegian
+description=Project Zomboid Norsk Oversettelse
+tags=Build 41;Language/Translation
+visibility=public
