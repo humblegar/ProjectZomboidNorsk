@@ -241,7 +241,7 @@ Tooltip_NO = {
 	Tooltip_CombatSpeedModifier = "Modifiserer kamphastighet",
 	Tooltip_NoBeard = "Ikke noe skjegg, vent til det vokser.",
 	Tooltip_NoHair = "Ikke noe hår, vent til det vokser.",
-	Tooltip_CombatSpeed ??= "Kamphastighet",
+	Tooltip_CombatSpeed = "Kamphastighet",
 	Tooltip_EquipFirst = "Må bæres.",
 	Tooltip_CanBeAttached = "Kan knyttes til: ",
 	Tooltip_item_FireMode = "Brannmodus",
@@ -301,6 +301,6 @@ Tooltip_NO = {
 	Tooltip_BookTitle_7 = "Ekspert %1",
 	Tooltip_BookTitle_9 = "Master %1",
 	Tooltip_item_Watermelon = "Må kuttes eller knuses før den kan spises.",
-	Tooltip_item_NeedsSliced ??= "Må skjæres i skiver før det legges til de fleste oppskrifter.",
+	Tooltip_item_NeedsSliced = "Må skjæres i skiver før det legges til de fleste oppskrifter.",
 	}
 	
