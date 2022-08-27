@@ -269,7 +269,7 @@ Stash_NO = {
     Stash_RosewoodStashMap3_Text2 = "kan være våpen her - bare i tilfelle",
     Stash_RosewoodStashMap3_Text3 = "ikke gå denne veien",
 
-    Stash_RosewoodStashMap4_Text1 = "Forlot stikk-av-ting her",
+    Stash_RosewoodStashMap4_Text1 = "La litt stikk-av-ting her",
     Stash_RosewoodStashMap4_Text2 = "Når de kommer (og de VIL!)",
     Stash_RosewoodStashMap4_Text3 = "ta det du kan bære og forsvinn ut i skogen",
 
