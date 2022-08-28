@@ -1642,4 +1642,9 @@ IGUI_NO = {
 	IGUI_SearchMode_Tip_Seasons_Text = "Alle naturlig forekommende gjenstander er styrt av måned og sesong. Hva du kan finne avhenger av årstiden!",
 	IGUI_SearchMode_Tip_SearchFocus_Title = "Søkefokus",
 	IGUI_SearchMode_Tip_SearchFocus_Text = "Ser du etter noe spesielt? Bruk søkefokus for å øke sjansen for å finne en valgt kategori!",
+
+	--debugtranslations
+	IGUI_Hair_HatLong = "Hatt (langt hår)",
+	IGUI_Hair_HatLongBraided = "Hatt (Lange fletter)",
+	IGUI_Hair_HatLongCurly = "Hatt (krøllet)",
 }

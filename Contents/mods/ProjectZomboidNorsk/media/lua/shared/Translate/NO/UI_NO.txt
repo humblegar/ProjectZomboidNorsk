@@ -1498,4 +1498,8 @@ UI_NO = {
     UI_ServerOption_AntiCheatProtectionType15ThresholdMultiplier_tooltip = "Terskelverdimultiplikator for anti-juksebeskyttelse: type 15.",
     UI_ServerOption_AntiCheatProtectionType20ThresholdMultiplier_tooltip = "Terskelverdimultiplikator for anti-juksebeskyttelse: type 20.",
     UI_ServerOption_MapRemotePlayerVisibility_tooltip = "Styrer visning av eksterne spillere på kartet i spillet.\n1=Skjult 2=Venner 3=Alle",
+
+    --debugtranslations
+    UI_ClothingType_Boilersuit = "Boiler Suit",
+    UI_ClothingType_TorsoExtraVest = "Torso Extra Vest",
 }
