@@ -322,29 +322,29 @@ Stash_NO = {
     Stash_WorldMap11_Text11 = "Få HQ til å teste med Lexington senere",
 
     Stash_WorldMap12_Text1 = "STORE campingplasser - alt vi trenger (unntatt Janes piller)",
-    Stash_WorldMap12_Text11 = "må ryddes først, men har mye mat, senger, peis"
-    Stash_WorldMap12_Text2 = "LIVSFARLIG: kjøpesenter mot nord, hundrevis av infiserte der"
+    Stash_WorldMap12_Text11 = "må ryddes først, men har mye mat, senger, peis",
+    Stash_WorldMap12_Text2 = "LIVSFARLIG: kjøpesenter mot nord, hundrevis av infiserte der",
 
-    Stash_WorldMap13_Text1 = "Hal, vi skal hit, burde være trygt"
-    Stash_WorldMap13_Text11 = "Jeg vet det er vanskelig, men IKKE TA MED PAULA"
-    Stash_WorldMap13_Text12 = "Du må i det minste redde deg selv"
+    Stash_WorldMap13_Text1 = "Hal, vi skal hit, burde være trygt",
+    Stash_WorldMap13_Text11 = "Jeg vet det er vanskelig, men IKKE TA MED PAULA",
+    Stash_WorldMap13_Text12 = "Du må i det minste redde deg selv",
 
-    Stash_WorldMap14_Text1 = "bestemor"
-    Stash_WorldMap14_Text2 = "her tok de bestefar"
-    Stash_WorldMap14_Text3 = "Herren beskytte dem"
+    Stash_WorldMap14_Text1 = "bestemor",
+    Stash_WorldMap14_Text2 = "her tok de bestefar",
+    Stash_WorldMap14_Text3 = "Herren beskytte dem",
 
-    Stash_WorldMap17_Text1 = "patrulje blindsone"
-    Stash_WorldMap17_Text2 = "V vil slå av bevegelsessensorer 23.15 nøyaktig"
-    Stash_WorldMap17_Text21 = "Ikke bli distrahert! Følg V, ta bildene dine, kom deg ut"
+    Stash_WorldMap17_Text1 = "patrulje blindsone",
+    Stash_WorldMap17_Text2 = "V vil slå av bevegelsessensorer 23.15 nøyaktig",
+    Stash_WorldMap17_Text21 = "Ikke bli distrahert! Følg V, ta bildene dine, kom deg ut",
 
-    Stash_WorldMap18_Text1 = "Ben"
-    Stash_WorldMap18_Text2 = "sti"
+    Stash_WorldMap18_Text1 = "Ben",
+    Stash_WorldMap18_Text2 = "sti",
 
-    Stash_WorldMap19_Text1 = "Sta faen! Ta i det minste våpnene jeg la igjen i fru Cuddys hus"
-    Stash_WorldMap19_Text11 = "Hvis du dør, vil jeg aldri tilgi deg!!!"
+    Stash_WorldMap19_Text1 = "Sta faen! Ta i det minste våpnene jeg la igjen i fru Cuddys hus",
+    Stash_WorldMap19_Text11 = "Hvis du dør, vil jeg aldri tilgi deg!!!",
 
-    Stash_WorldMap19_Text1 = "IDIOT"
-    Stash_WorldMap19_Text2 = "TULLING"
-    Stash_WorldMap19_Text3 = "RASHØLL"
+    Stash_WorldMap19_Text1 = "IDIOT",
+    Stash_WorldMap19_Text2 = "TULLING",
+    Stash_WorldMap19_Text3 = "RASHØLL",
     */
 }

@@ -15,7 +15,7 @@ Challenge_NO = {
 	Challenge_Challenge1_desc = "Du kan høre dem nærme seg. Horder av døde hoder, som trer inn i den isolerte hytten din fra alle vinkler. Døden er uunngåelig, men hånden din rører ved en hagle. <LINE> <LINE> Siste Forsvar har endeløse bølger av zombier i stadig økende tall. Overlev så lenge som mulig mot de overveldende oddsene.",
 	
 	Challenge_Challenge2_name = "Hus i skogen - Siste stand - Økende angrep",
-	Challenge_Challenge2_desc = "En annen dag, en annen hytte klar til å bli blodig. Hordene er over deg, og din død vil være like smertefull som den er grusom. Så gå ut og slåss... <LINE> <LINE> Last Stand – Akkumulerte uendelige bølger av zombier i stadig økende antall. Bruk penger tjent ved å drepe zeds til å kjøpe utstyr, gå opp i nivå og reparere dine våpen som renner av blod.",
+	Challenge_Challenge2_desc = "En annen dag, en annen hytte klar til å bli blodig. Hordene er over deg, og din død vil være like smertefull som den er grusom. Så gå ut og slåss... <LINE> <LINE> Siste stand - Økende angrep har uendelige bølger av zombier i stadig økende antall. Bruk penger tjent ved å drepe zombier til å kjøpe utstyr, gå opp i nivå og reparere dine våpen som renner av blod.",
 	
 	Challenge_AStormIsComing_name = "En storm kommer",
 	Challenge_AStormIsComing_desc = "Skyer samler seg over Kentucky. Lyden av torden kan høres i det fjerne. <LINE> <LINE> Når himmelen mørkner, blir de døde som snubler over jorden urolige. <LINE> <LINE> Dette er en storm som vil vokse og falle tilbake i sin voldsomhet, men det vil aldri ta slutt.",
